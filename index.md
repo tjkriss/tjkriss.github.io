@@ -5,6 +5,7 @@
 layout: home
 ---
 <body>
-<h2>Welcome to my website!</h2>
+<h2></h2>
+<img align="right" width="300" height="400" src="/assets/images/me.jpg" alt="">
 
 </body>

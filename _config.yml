@@ -16,11 +16,11 @@
 title: Tayler Kriss
 email: taylerkriss@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Tayler Kriss is a plant physiologist working towards a masters in biology at 
+  Tayler Kriss is a plant physiology student working towards a master's degree in biology at 
   Fort Hays State University. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+url: "http://taylerkriss.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: TaylerDaKreator
 github_username:  tjkriss
 
 # Build settings
