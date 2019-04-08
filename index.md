@@ -5,7 +5,7 @@
 layout: home
 ---
 <body>
-
-<img align="right" width="300" height="400" src="/assets/images/me.JPG" alt="">
+<h2></h2>
+<img align="right" width="300" height="400" src="/assets/images/me.jpg" alt="">
 
 </body>
