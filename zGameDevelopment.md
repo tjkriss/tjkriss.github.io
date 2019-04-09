@@ -8,9 +8,7 @@ One of my hobbies is video game development.<br>
 ## Closed Connection<br>
 is an android arcade game I am making in the Unity 3D game engine.<br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E4VIwVHiHnk" frameborder="0" allowfullscreen></iframe>
-
-*{% include youtubePlayer.html id=E4VIwVHiHnk %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E4VIwVHiHnk" frameborder="0" allowfullscreen></iframe><br>
 
 <img align="center" src="/assets/images/CCBanner.png" alt=""><br>
 
